@@ -1,0 +1,19 @@
+hr {
+	display: block;
+	position: relative;
+	margin: 8px auto;
+	height: 0;
+	width: 100%;
+	max-height: 0;
+	font-size: 1px;
+	line-height: 0;
+	clear: both;
+	border: none;
+	border-top: 1px solid #aaaaaa;
+	border-bottom: 1px solid #ffffff;
+}
+
+.card, .card-header, .card-text {
+	border-color: white;
+	background-color: white;
+}
